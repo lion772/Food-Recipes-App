@@ -1,7 +1,7 @@
 package com.example.foodrecipesapp.di
 
-import com.example.foodrecipesapp.Constants.Companion.BASE_URL
-import com.example.foodrecipesapp.FoodRecipesApi
+import com.example.foodrecipesapp.util.Constants.Companion.BASE_URL
+import com.example.foodrecipesapp.data.network.FoodRecipesApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

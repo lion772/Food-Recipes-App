@@ -1,4 +1,4 @@
-package com.example.foodrecipesapp
+package com.example.foodrecipesapp.data.network
 
 import com.example.foodrecipesapp.models.FoodRecipe
 import retrofit2.Response

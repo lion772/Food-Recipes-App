@@ -1,6 +1,6 @@
-package com.example.foodrecipesapp
+package com.example.foodrecipesapp.data
 
-import retrofit2.http.QueryMap
+import com.example.foodrecipesapp.data.network.FoodRecipesApi
 import javax.inject.Inject
 
 class RemoteDataSource @Inject constructor(
